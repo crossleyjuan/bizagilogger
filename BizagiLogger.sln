@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizagiLogger", "BizagiLogger\BizagiLogger.csproj", "{0008E4BC-6447-4FB0-A875-45D8965FFDD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCommand", "TestCommand\TestCommand.csproj", "{A5D7BE4C-9980-4FBE-98D0-393B32B047EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0008E4BC-6447-4FB0-A875-45D8965FFDD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0008E4BC-6447-4FB0-A875-45D8965FFDD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0008E4BC-6447-4FB0-A875-45D8965FFDD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0008E4BC-6447-4FB0-A875-45D8965FFDD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D7BE4C-9980-4FBE-98D0-393B32B047EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D7BE4C-9980-4FBE-98D0-393B32B047EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D7BE4C-9980-4FBE-98D0-393B32B047EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D7BE4C-9980-4FBE-98D0-393B32B047EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
